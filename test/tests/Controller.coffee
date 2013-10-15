@@ -14,3 +14,8 @@ describe 'Controller', ->
 			c = Controller.createController('/app/controllers/Controller', $('#test div'))
 			expect(c.el.attr('data-controller')).to.be.equal('/app/controllers/Controller')
 			expect(c.myArray).to.be.eql(['hello', 'word'])
+
+	describe '#register()', ->
+		it 'should register controller with autowired services', ->
+			c = Controller.register('/app/controllers/Controller', $('#test div'))
+			expect(c.myArray).to.be.eql(['hello', 'word'])
