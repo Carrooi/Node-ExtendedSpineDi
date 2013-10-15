@@ -1924,7 +1924,7 @@
 	/** code **/
 	module.exports = (function() {
 	return {
-		"name": "test"
+		"name": "extended-spine-di"
 	}
 	}).call(this);
 	
