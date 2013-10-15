@@ -1,0 +1,16 @@
+{
+	"packages": {
+		"test": {
+			"application": "./tests.js",
+			"modules": [
+				"./tests/*.coffee",
+				"../Controller.js",
+				"./app/*.coffee",
+				"../node_modules/extended-spine/Controller.js"
+			],
+			"run": [
+				"/tests/Controller"
+			]
+		}
+	}
+}
