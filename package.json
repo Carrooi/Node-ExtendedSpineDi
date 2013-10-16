@@ -1,7 +1,7 @@
 {
 	"name": "extended-spine-di",
 	"description": "Some extensions for spine framework with dependency injection",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"author": {
 		"name": "David Kudera",
 		"email": "sakren@gmail.com"
@@ -22,7 +22,7 @@
 		"node": "*"
 	},
 	"dependencies": {
-		"extended-spine": "~1.0.4",
+		"extended-spine": "~1.1.0",
 		"dependency-injection": "~1.6.1"
 	},
 	"devDependencies": {

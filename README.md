@@ -45,7 +45,7 @@ $ npm test
 
 ## Changelog
 
-* 1.0.3
+* 1.0.3 - 1.0.4
 	+ Some updates
 
 * 1.0.2
