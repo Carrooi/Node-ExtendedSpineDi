@@ -45,6 +45,9 @@ $ npm test
 
 ## Changelog
 
+* 1.0.3
+	+ Some updates
+
 * 1.0.2
 	+ Bug with inheritance
 
