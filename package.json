@@ -1,10 +1,10 @@
 {
 	"name": "extended-spine-di",
-	"description": "Some extensions for spine framework with dependency injection",
-	"version": "1.0.4",
+	"description": "[ABANDONED] Some extensions for spine framework with dependency injection",
+	"version": "1.0.5",
 	"author": {
 		"name": "David Kudera",
-		"email": "sakren@gmail.com"
+		"email": "kudera.d@gmail.com"
 	},
 	"keywords": [
 		"spine",
@@ -15,7 +15,7 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:sakren/node-extended-spine-di.git"
+		"url": "git@github.com:Carrooi/Node-ExtendedSpineDi.git"
 	},
 	"license": "MIT",
 	"engines": {
@@ -33,3 +33,4 @@
 		"test": "cd ./test; mocha-phantomjs ./index.html;"
 	}
 }
+

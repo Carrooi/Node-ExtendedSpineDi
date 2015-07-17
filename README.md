@@ -5,6 +5,12 @@ It gives you ability to instantiate controllers almost like in [Angular](http://
 
 You can use it for example with [SimQ](https://npmjs.org/package/simq).
 
+## Abandoned
+
+Unfortunately I don't have any more time to maintain this repository :-(
+
+![sad cat](https://raw.githubusercontent.com/sakren/sakren.github.io/master/images/sad-kitten.jpg)
+
 ## Installation
 
 ```
@@ -44,6 +50,10 @@ $ npm test
 ```
 
 ## Changelog
+
+* 1.0.5
+	+ Move under Carrooi organization
+	+ Abandon package
 
 * 1.0.3 - 1.0.4
 	+ Some updates
